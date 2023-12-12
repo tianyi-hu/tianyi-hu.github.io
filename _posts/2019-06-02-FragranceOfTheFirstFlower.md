@@ -2,7 +2,7 @@
 layout: post
 title: "【旧文搬运!/Test】从《第一次遇见花香的那刻》我想到些什么"
 date:   2019-06-12
-tags: [随笔]
+tags: [随笔,影评]
 comments: true
 author: tianyi
 ---
